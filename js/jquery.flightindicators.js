@@ -20,7 +20,7 @@
 			altitude: 0,
 			pressure: 1000,
 			showBox : true,
-			img_directory : 'img/'
+			img_directory : 'jQuery-Flight-Indicators/img/'
 		}, options );
 
 		var constants = {
